@@ -1,1 +1,1 @@
-"# DemoMtp" 
+android平板连接外部mtp设备后轮询获取设备中的图片
